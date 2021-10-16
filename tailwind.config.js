@@ -5,7 +5,7 @@ module.exports = {
     theme: {
       extend: {
         olors : {
-          bms : 
+          mms : 
           {
             50: '#edf1fc',
             100: '#d3d4e1',
